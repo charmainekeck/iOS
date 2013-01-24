@@ -10,4 +10,6 @@
 
 @interface VCViewController : UIViewController
 
+@property (nonatomic, strong) NSMutableArray* vectors;
+
 @end
